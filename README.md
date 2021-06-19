@@ -13,6 +13,7 @@ Download the Python 3 installer package from the official website and install it
 
 
 
+
 You can start the game by executing the command `python snake.py` from terminal
 or from any python IDE, e.g., spyder, visual studio code, etc.<br>
 
