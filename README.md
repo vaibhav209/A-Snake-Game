@@ -1,6 +1,6 @@
 # A Simple Snake Game
 
-This is game of snake developed in `python=3.6` using `pygame`. By implementing python Data structure create a logic and make it simply.
+This is game of snake developed in `python=3.8` using `pygame`. By implementing python Data structure create a logic and make it simply.
 
 
 ## Installing The Pygame Module:
